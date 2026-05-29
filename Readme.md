@@ -21,7 +21,7 @@ The project showcases key data engineering and analytics concepts including ETL 
 * Microsoft SQL Server
 
 **Dataset**
-* Retail Orders Dataset (Kaggle)
+* Retail Orders Dataset [(Kaggle)](https://www.kaggle.com/datasets/ankitbansal06/retail-orders/data)
 
 ---
 
